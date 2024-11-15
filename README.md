@@ -1,2 +1,2 @@
 # Dio-Challenge-Resumo-Lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, nesse desafio aprendi sobre configurações basicas do azure e uma breve explicações sobre algumas funcionalidades.
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, no primeiro desafio aprendi sobre configurações basicas do azure e uma breve explicações sobre algumas funcionalidades. No segundo desafio aprendi sobre SLA que demonstra as regras de tempo de inatividade e como a azure se comporta perante ao tempo de inatividade, como tambem mostrado sobre as zonas de disponibilidade e sobre governanças.
